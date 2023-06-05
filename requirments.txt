@@ -1,0 +1,8 @@
+asgiref==3.7.2
+django-environ==0.10.0
+Django==4.2.1
+pip==23.1.2
+psycopg2==2.9.6
+setuptools==67.8.0
+sqlparse==0.4.4
+typing-extensions==4.6.3
