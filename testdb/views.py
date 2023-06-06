@@ -1,6 +1,6 @@
 from django.views.generic.list import ListView
-from .models import Employee
+from .models import Profile
 
 
 class EmployeeRetrieve(ListView):
-    model = Employee
+    model = Profile
